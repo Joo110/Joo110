@@ -26,7 +26,7 @@ A full-featured platform for selling clothes with modern UI, product management,
 
 ---
 
- Mijas-Frontend Developer (React.js)
+ ### Mijas-Frontend Developer (React.js)
  **7/2025 - 10/2025**
  Club member management platform Built responsive admin interfaces for managing members and admins
  using React Implemented paginated tables, search/filter, context actions, and a membership renewal
